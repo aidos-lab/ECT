@@ -1,5 +1,7 @@
 # Companion Repository for "Topology meets Machine Learning: An Introduction using the Euler Characteristic Transform"
 
+![GitHub contributors](https://img.shields.io/github/contributors/aidos-lab/ECT) ![GitHub License](https://img.shields.io/github/license/aidos-lab/ECT)
+
 This is a small list of additional resources for the Euler
 Characteristic Transform. Please also check out the
 [repository](https://github.com/aidos-lab/ECT) for some sample code.
